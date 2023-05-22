@@ -1,7 +1,7 @@
 # HTML_project
 
 
-#Udemy The Complete 2023 Web Development Bootcamp Section 1 - HTML
+## Udemy The Complete 2023 Web Development Bootcamp Section 1 - HTML
 
 Topics covered:
 
