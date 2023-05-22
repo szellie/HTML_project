@@ -1,13 +1,11 @@
 # HTML_project
 
 
-Udemy The Complete 2023 Web Development Bootcamp 
-Section 1
+#Udemy The Complete 2023 Web Development Bootcamp Section 1 - HTML
 
-HTML 
 Topics covered:
 
-- Learn the anatomy of HTML syntax to structure your websites.
+- Learn the anatomy of HTML syntax to structure websites.
 - Understand the HTML boilerplate and HTML doctypes.
 - Understand indentation and nesting in HTML code.
 - Learn to use HTML tags to structure headings, paragraphs.
