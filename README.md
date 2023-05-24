@@ -3,7 +3,9 @@
 
 ## Udemy The Complete 2023 Web Development Bootcamp Section 1 - HTML
 
-Topics covered:
+I created a simple resume using only HTML elements.
+
+Topics covered in this lesson:
 
 - Learn the anatomy of HTML syntax to structure websites.
 - Understand the HTML boilerplate and HTML doctypes.
